@@ -75,3 +75,4 @@ webencodings==0.5.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
 zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
+gunicorn==19.9.0
